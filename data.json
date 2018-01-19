@@ -1,0 +1,28 @@
+{
+  "customers": [
+    {
+      "id": "2",
+      "name": "steve smith",
+      "email": "ssmith@gail.com",
+      "age": 23
+    },
+    {
+      "id": "3",
+      "name": "sara williams",
+      "email": "swilliams@gail.com",
+      "age": 32
+    },
+    {
+      "name": "harry white",
+      "email": "hwhite@gail.com",
+      "age": 20,
+      "id": "TsyFhIy"
+    },
+    {
+      "name": "harry potter",
+      "email": "hpotter@gail.com",
+      "age": 40,
+      "id": "8LHDVv0"
+    }
+  ]
+}
